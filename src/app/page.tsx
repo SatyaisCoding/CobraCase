@@ -56,7 +56,7 @@ export default function Home() {
                   />
                   <img
                     className='inline-block h-10 w-10 rounded-full ring-2 ring-slate-100'
-                    src='/users/user-2.png'
+                    src='/users/user-2.jpg'
                     alt='user image'
                   />
                   <img
@@ -66,12 +66,12 @@ export default function Home() {
                   />
                   <img
                     className='inline-block h-10 w-10 rounded-full ring-2 ring-slate-100'
-                    src='/users/user-4.jpg'
+                    src='/users/user-4.png'
                     alt='user image'
                   />
                   <img
                     className='inline-block object-cover h-10 w-10 rounded-full ring-2 ring-slate-100'
-                    src='/users/user-5.jpg'
+                    src='/users/user-5.png'
                     alt='user image'
                   />
                 </div>
@@ -147,11 +147,11 @@ export default function Home() {
               <div className='flex gap-4 mt-2'>
                 <img
                   className='rounded-full h-12 w-12 object-cover'
-                  src='/users/user-1.png'
+                  src='/users/user-5.png'
                   alt='user'
                 />
                 <div className='flex flex-col'>
-                  <p className='font-semibold'>Jonathan</p>
+                  <p className='font-semibold'>Satya Prakash</p>
                   <div className='flex gap-1.5 items-center text-zinc-600'>
                     <Check className='h-4 w-4 stroke-[3px] text-green-600' />
                     <p className='text-sm'>Verified Purchase</p>
@@ -184,11 +184,11 @@ export default function Home() {
               <div className='flex gap-4 mt-2'>
                 <img
                   className='rounded-full h-12 w-12 object-cover'
-                  src='/users/user-4.jpg'
+                  src='/users/user-4.png'
                   alt='user'
                 />
                 <div className='flex flex-col'>
-                  <p className='font-semibold'>Josh</p>
+                  <p className='font-semibold'>Niharika Bhatt</p>
                   <div className='flex gap-1.5 items-center text-zinc-600'>
                     <Check className='h-4 w-4 stroke-[3px] text-green-600' />
                     <p className='text-sm'>Verified Purchase</p>
